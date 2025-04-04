@@ -5,7 +5,7 @@ import lombok.Data;
 import java.util.ArrayList;
 
 @Data
-public class UsersList {
+public class ResourceList {
 
-    ArrayList<UserForUsersList> data;
+    ArrayList<ResourceForList> data;
 }
